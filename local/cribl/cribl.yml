@@ -1,0 +1,5 @@
+git:
+  authType: ssh
+  autoAction: none
+  remote: git@github.com:bieron/foo.git
+  defaultCommitMessage: foo
